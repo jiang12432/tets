@@ -1,0 +1,60 @@
+game_run.py-66-python25-ERROR-'bool' object is not subscriptable
+game_run.py-66-python25-ERROR-'bool' object is not subscriptable
+game_run.py-66-python25-ERROR-'bool' object is not subscriptable
+game_run.py-66-python25-ERROR-'bool' object is not subscriptable
+game_run.py-68-python25-ERROR-'bool' object is not subscriptable
+game_run2.py-75-python25-ERROR-('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+game_run2.py-75-python25-ERROR-('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+game_run2.py-75-python25-ERROR-('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+game_run2.py-75-python25-ERROR-('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+game_run2.py-75-python25-ERROR-('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-75-python25-ERROR-can only concatenate str (not "int") to str
+game_run2.py-76-python25-ERROR-('Connection aborted.', TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))
+game_run2.py-78-python25-ERROR-'bool' object is not subscriptable
+game_run2.py-78-python25-ERROR-'bool' object is not subscriptable
+game_run2.py-78-python25-ERROR-('Connection aborted.', TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))
+game_run2.py-78-python25-ERROR-('Connection aborted.', TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))
+game_run2.py-78-python25-ERROR-('Connection aborted.', TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))
+game_run2.py-78-python25-ERROR-'bool' object is not subscriptable
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+game_run2.py-78-python25-ERROR-('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+test_05_liveroom.py-68-python25-ERROR-10026 != 200
+test_05_liveroom.py-68-python25-ERROR-10028 != 200
+test_05_liveroom.py-68-python25-ERROR-10028 != 200
+test_05_liveroom.py-68-python25-ERROR-10028 != 200
+test_06_livemothd.py-56-python25-ERROR-10010 != 200
+test_07_V104.py-61-python25-ERROR-400 != None
+test_08_V105.py-54-python25-ERROR-10028 != 200
+test_08_V105.py-54-python25-ERROR-10010 != 200
+test_06_livemothd.py-56-python25-ERROR-10010 != 200
+test_08_V105.py-54-python25-ERROR-10028 != 200
+test_08_V105.py-54-python25-ERROR-10010 != 200
+test_06_livemothd.py-56-python25-ERROR-10010 != 200
+test_08_V105.py-54-python25-ERROR-10028 != 200
+test_08_V105.py-54-python25-ERROR-10010 != 200

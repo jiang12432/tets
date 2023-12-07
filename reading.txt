@@ -1,0 +1,49 @@
+readme 文件
+对项目进行说明：
+
+1.环境变量
+-安装 python
+-pip install
+-添加 Excel
+-python ......py 运行程序
+
+2.对项目的版本进行更新说明
+0.1 处理了问题。。。
+0.2 新增了哪些接口
+
+# 测试数据是json格式，
+
+#发邮件
+#记录log
+#动态数据
+#测试用例关联
+#正则表达式
+#数据库状态
+
+配置文件：
+1. py文件  非常灵活    只有python代码能用
+2. yaml    通用，读取解析简洁只能
+3. ini
+
+
+框架的分层：
+
+1.run_test.py  代码入口，用来收集测试用例，生成测试报告
+2.测试逻辑 test_cases包，各个模块的测试用例方法。便于管理
+3.数据管理层：data，excel数据
+4.业务逻辑层（request_handler，excel_handler）通用的。
+5.配置文件（和项目是相关的，项目地址，数据库地址）
+6.测试报告
+
+动态数据：
+注册功能当中正确的手机号码不能提前知道，需要通过程序去动态生成，然后在数据库当中进行核对
+
+操作MYSQL数据库
+1.建立连接  conn = pymysql.connect（）
+2.建立游标  cursor = conn.cursor（）
+3.执行sql   cursor.execute（）
+4.获取结果  cursor.fetchone/all（）
+5.关闭
+
+1.setup, self.req.visi
+

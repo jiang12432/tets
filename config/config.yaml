@@ -1,0 +1,50 @@
+# logger_name
+# logger_level
+# logger_file
+
+logger:
+  name: python25
+  level: INFO
+  file: log.txt
+
+database:
+  host: "rm-j6cjcim49kzmvjq1v6o.mysql.rds.aliyuncs.com"
+  port: 3306
+  user: "root"
+  password: "root@525"
+  charset: "utf8"
+  database: "kding_newlive"
+
+user:
+  account: 100012
+  password: 88888888
+
+user2:
+  account: 100015
+  password: 88888888
+
+user3:
+  account: 100016
+  password: 88888888
+
+user4:
+  - 100018
+  - 100019
+  - 100012
+  - 100016
+  - 100017
+  - 100016
+  - 77641664
+  - 36691374
+  - 50116846
+  - 67289442
+  - 76162231
+  - 17182142
+  - 74715044
+  - 84711014
+  - 11038646
+  - 62821714
+  - 38105908
+  - 51526174
+  - 49382741
+
